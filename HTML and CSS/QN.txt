@@ -1,0 +1,10 @@
+value and name attribute of input tag difference?
+
+Forms - method,action
+input - placeholder name type value
+img br are self closing tag
+meta source do not close
+
+So while the class and id attributes are primarily used for styling and JavaScript selection, the name attribute is used for form submission and server-side processing.
+value is what we give in the attribute and not what is typed after the tag as the typed value cant be passed automatically
+option,select,button are tags
